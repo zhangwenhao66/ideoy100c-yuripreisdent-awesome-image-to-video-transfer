@@ -1,4 +1,5 @@
 # Awesome Image-to-Video Transfer Learning
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 ⭐ This is a curated list of research papers on transferring the knowledge of image-language foundation models to video understanding. We will actively update more recent papers, and if you are interested in more details, kindly refer to our survey which complements this repo: 
 
 [**Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey**](https://arxiv.org/abs/2510.10671)
